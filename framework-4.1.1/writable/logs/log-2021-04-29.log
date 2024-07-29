@@ -1,0 +1,258 @@
+CRITICAL - 2021-04-29 15:18:10 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:18:19 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:19:14 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:19:19 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:19:21 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:23:56 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:26:03 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:26:10 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:26:19 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:26:44 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:26:47 --> Class 'app\Models\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:30:48 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:31:25 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('Pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('Pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:31:37 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('Pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('Pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:31:38 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('Pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('Pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:32:39 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('Pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('Pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:32:54 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:34:29 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:36:08 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:36:22 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:45:22 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:46:10 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:49:35 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:50:53 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:51:34 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:51:35 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:51:35 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:51:35 --> Call to a member function model() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-29 15:53:20 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:55:42 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:55:42 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:55:42 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-04-29 15:55:43 --> sizeof(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'sizeof(): Param...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\app\Views\pages\login.php(3): sizeof(NULL)
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#3 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#5 D:\wamp64\www\HappyPunch\app\Controllers\User.php(24): view('pages/login', Array)
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\wamp64\www\HappyPunch\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}

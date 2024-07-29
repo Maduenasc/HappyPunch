@@ -1,0 +1,289 @@
+CRITICAL - 2021-05-02 09:23:53 --> Call to undefined function form_open()
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(220): include()
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(23): view('pages/login', Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-02 09:32:13 --> syntax error, unexpected 'endif' (T_ENDIF), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(23): view('pages/login', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-02 09:38:38 --> syntax error, unexpected 'endif' (T_ENDIF), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(23): view('pages/login', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-02 09:54:01 --> Call to a member function getErrors() on null
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->auth()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-05-02 09:58:16 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:58:17 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:58:17 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:58:17 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:58:49 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:58:50 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:58:50 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:59:30 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 09:59:31 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 10:00:07 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 10:00:07 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 10:00:08 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 10:00:08 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 10:00:08 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-02 10:33:55 --> Invalid file: login.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(43): view('login')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-02 10:36:45 --> syntax error, unexpected '>', expecting end of file
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(43): view('pages/login')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-02 10:37:37 --> Invalid file: register.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('register', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(95): view('register')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-02 11:06:09 --> Invalid file: register.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('register', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(94): view('register')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-02 11:10:17 --> Invalid file: register.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('register', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(94): view('register')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2021-05-02 12:42:21 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('sadf@red.uajn.e...', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'sadf@red.uajn.e...', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-05-02 12:42:36 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('sadf@red.uajn.e...', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'sadf@red.uajn.e...', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-05-02 12:43:54 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('sadf@red.uajn.e...', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'sadf@red.uajn.e...', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-05-02 12:44:04 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('sadf@red.uajn.e...', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'sadf@red.uajn.e...', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-05-02 12:44:34 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('sadf@red.uajn.e...', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'sadf@red.uajn.e...', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-05-02 12:49:29 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('asdfasdf@gmail....', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'asdfasdf@gmail....', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2021-05-02 12:50:47 --> mysqli_sql_exception: Table 'webapp.users' doesn't exist in D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\HappyPunch\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT 1\nFROM `...')
+#1 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 D:\wamp64\www\HappyPunch\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 D:\wamp64\www\HappyPunch\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 D:\wamp64\www\HappyPunch\system\Validation\Rules.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->is_unique('asdf@rad.prueba...', 'email', Array, NULL)
+#6 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', 'asdf@rad.prueba...', Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#8 D:\wamp64\www\HappyPunch\app\Controllers\User.php(71): CodeIgniter\Controller->validate(Array)
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->register()
+#10 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#11 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#13 {main}

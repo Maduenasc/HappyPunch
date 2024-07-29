@@ -1,0 +1,1103 @@
+CRITICAL - 2021-05-10 03:20:29 --> syntax error, unexpected ')', expecting ',' or ';'
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(42): view('pages/login')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 03:35:59 --> syntax error, unexpected ')', expecting ',' or ';'
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(42): view('pages/login')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 03:36:16 --> syntax error, unexpected ')', expecting ',' or ';'
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/login', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(42): view('pages/login')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 03:54:44 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:54:55 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:53 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:54 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:54 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:54 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:54 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:55 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:55 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:55:56 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 03:58:24 --> validarUsuario is not a valid rule.
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(314): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validarUsuario')
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', 'asdfasdfasdf', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(25): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:03:08 --> validarUsuario is not a valid rule.
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(314): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validarUsuario')
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', 'asdfasdfasdf', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:04:50 --> Class 'App\Validation\BaseController' not found
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(562): include_once()
+#1 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/login')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/login')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-10 04:05:21 --> Class 'App\Validation\validacionesPersonalizadas' not found
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(122): CodeIgniter\Validation\Validation->loadRuleSets()
+#1 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 04:06:39 --> Class 'App\Validations\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario('asdfasdfasdf', 'email,password', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', 'asdfasdfasdf', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:07:31 --> Class 'App\Validations\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario('asdfasdfasdf', 'email,password', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', 'asdfasdfasdf', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:07:38 --> Class 'App\Validations\UserModel' not found
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario('asdfasdfasdf', 'email,password', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', 'asdfasdfasdf', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:08:18 --> Undefined index: email
+#0 D:\wamp64\www\HappyPunch\app\Validations\validacionesPersonalizadas.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\wamp64\\www\\H...', 17, Array)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario('asdfasdfasdf', 'email,password', Array, NULL)
+#2 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', 'asdfasdfasdf', Array, Array)
+#3 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 04:15:00 --> Undefined index: password
+#0 D:\wamp64\www\HappyPunch\app\Validations\validacionesPersonalizadas.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\wamp64\\www\\H...', 23, Array)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario(' root123456', 'correo,contrase...', Array, NULL)
+#2 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', ' root123456', Array, Array)
+#3 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 04:15:29 --> Undefined index: password
+#0 D:\wamp64\www\HappyPunch\app\Validations\validacionesPersonalizadas.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\wamp64\\www\\H...', 23, Array)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario(' root123456', 'correo,contrase...', Array, NULL)
+#2 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', ' root123456', Array, Array)
+#3 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 04:15:38 --> Cannot use object of type stdClass as array
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario(' root123456', 'correo,contrase...', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', ' root123456', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:16:07 --> syntax error, unexpected ')'
+#0 D:\wamp64\www\HappyPunch\system\Autoloader\Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\wamp64\\www\\H...')
+#1 D:\wamp64\www\HappyPunch\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Validations...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Validations...')
+#3 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(580): spl_autoload_call('App\\Validations...')
+#4 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(122): CodeIgniter\Validation\Validation->loadRuleSets()
+#5 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#6 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-05-10 04:16:20 --> Cannot use object of type stdClass as array
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario(' root123456', 'correo,contrase...', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', ' root123456', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:16:45 --> Cannot use object of type stdClass as array
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario(' root123456', 'correo,contrase...', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', ' root123456', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:17:31 --> Cannot use object of type stdClass as array
+#0 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(306): App\Validations\validacionesPersonalizadas->validarUsuario(' root123456', 'correo,contrase...', Array, NULL)
+#1 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('contrase\xC3\xB1a', 'contrase\xC3\xB1a', ' root123456', Array, Array)
+#2 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 04:29:42 --> syntax error, unexpected ';', expecting ')'
+#0 D:\wamp64\www\HappyPunch\system\Autoloader\Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\wamp64\\www\\H...')
+#1 D:\wamp64\www\HappyPunch\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Validations...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Validations...')
+#3 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(580): spl_autoload_call('App\\Validations...')
+#4 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(122): CodeIgniter\Validation\Validation->loadRuleSets()
+#5 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#6 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-05-10 04:29:51 --> syntax error, unexpected ';', expecting ')'
+#0 D:\wamp64\www\HappyPunch\system\Autoloader\Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\wamp64\\www\\H...')
+#1 D:\wamp64\www\HappyPunch\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Validations...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Validations...')
+#3 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(580): spl_autoload_call('App\\Validations...')
+#4 D:\wamp64\www\HappyPunch\system\Validation\Validation.php(122): CodeIgniter\Validation\Validation->loadRuleSets()
+#5 D:\wamp64\www\HappyPunch\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#6 D:\wamp64\www\HappyPunch\app\Controllers\User.php(26): CodeIgniter\Controller->validate(Array, Array)
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#8 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-05-10 04:30:19 --> Trying to get property 'id' of non-object
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\wamp64\\www\\H...', 50, Array)
+#1 D:\wamp64\www\HappyPunch\app\Controllers\User.php(34): App\Controllers\User->setUserSession(NULL)
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-10 04:30:49 --> Trying to get property 'id' of non-object
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\wamp64\\www\\H...', 51, Array)
+#1 D:\wamp64\www\HappyPunch\app\Controllers\User.php(34): App\Controllers\User->setUserSession(NULL)
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-10 04:31:22 --> Trying to get property 'id' of non-object
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\wamp64\\www\\H...', 52, Array)
+#1 D:\wamp64\www\HappyPunch\app\Controllers\User.php(35): App\Controllers\User->setUserSession(NULL)
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-10 04:31:30 --> Trying to get property 'user' of non-object
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\wamp64\\www\\H...', 52, Array)
+#1 D:\wamp64\www\HappyPunch\app\Controllers\User.php(35): App\Controllers\User->setUserSession(NULL)
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-10 04:31:49 --> Call to undefined method App\Controllers\User::setUserSession()
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-05-10 04:33:07 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 16, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(126): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 04:33:30 --> Invalid file: profile.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profile.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('profile', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('profile')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 04:33:58 --> Invalid file: profile.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profile.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('profile', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('profile')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 04:33:59 --> Invalid file: profile.php
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profile.php')
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('profile', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('profile')
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 04:39:37 --> Undefined property: App\Controllers\User::$session
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 109, Array)
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 04:39:46 --> syntax error, unexpected ';', expecting ')'
+#0 D:\wamp64\www\HappyPunch\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('user/profile')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('user/profile')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 04:39:52 --> Undefined property: App\Controllers\User::$session
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 109, Array)
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 04:40:02 --> Undefined property: App\Controllers\User::$session
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 109, Array)
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 05:20:40 --> Undefined property: App\Controllers\User::$session
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 109, Array)
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 05:22:31 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\material.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/material', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(54): view('pages/material', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->material()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 05:22:32 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\reserva.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/reserva', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(37): view('pages/reserva', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->reserva()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 05:36:53 --> syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:39:52 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:39:52 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:39:53 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:40:50 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:40:51 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:42:59 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:01 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:01 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:02 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:02 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:02 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:02 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:20 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:43:42 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:44:05 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 05:51:47 --> Call to undefined function is_user_logged_in()
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(220): include()
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 05:51:49 --> Call to undefined function is_user_logged_in()
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(220): include()
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-10 05:53:52 --> Call to a member function set() on string
+#0 D:\wamp64\www\HappyPunch\app\Controllers\User.php(33): App\Controllers\User->setUserSession(Object(stdClass))
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-10 05:55:37 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-05-10 05:58:44 --> Undefined property: CodeIgniter\View\View::$session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:02:39 --> Undefined property: CodeIgniter\View\View::$session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(40): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:03:42 --> Undefined property: CodeIgniter\View\View::$session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:04:15 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 44, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:07:29 --> syntax error, unexpected ';'
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 06:07:38 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:30 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:31 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:31 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:31 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:31 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:32 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:32 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:32 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:08:32 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:10:07 --> Undefined variable: session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 42, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(39): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->login()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:16:06 --> Undefined variable: uri
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 43, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(20): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->view()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:19:02 --> Call to a member function destroy() on string
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->logout()
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-05-10 06:19:24 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\reserva.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/reserva', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(37): view('pages/reserva', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->reserva()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:22:16 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\reserva.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/reserva', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(37): view('pages/reserva', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->reserva()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:23:11 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\reserva.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/reserva', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(37): view('pages/reserva', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->reserva()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:28:46 --> Undefined property: CodeIgniter\View\View::$session
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\wamp64\\www\\H...', 44, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(124): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:29:07 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\reserva.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/reserva', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(37): view('pages/reserva', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->reserva()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:42:52 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\material.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/material', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(54): view('pages/material', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->material()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:46:57 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\reserva.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/reserva', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(37): view('pages/reserva', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->reserva()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 06:46:59 --> Undefined variable: id1
+#0 D:\wamp64\www\HappyPunch\app\Views\pages\material.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 3, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('pages/material', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\Pages.php(54): view('pages/material', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\Pages->material()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 10:49:49 --> tbwlogin filter must have a matching alias defined.
+#0 D:\wamp64\www\HappyPunch\system\Filters\Filters.php(354): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('tbwlogin')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(394): CodeIgniter\Filters\Filters->enableFilter('tbwlogin', 'before')
+#2 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-05-10 11:36:28 --> Class 'App\Filters\AdminFilter' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:36:59 --> Class 'App\Filters\AdminFilter' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:37:31 --> Class 'App\Filters\AdminFilter' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:40:12 --> Class 'App\Filters\AdminFilter' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:47:24 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:48:57 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:48:58 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:49:06 --> Class 'App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:49:44 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:49:44 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:49:49 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:50:31 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:57:23 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:57:24 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:57:24 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 11:57:24 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 12:07:43 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 12:17:40 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 12:18:04 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 12:18:34 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 12:31:10 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 12:34:39 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('admin/profile', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 16:41:03 --> Class 'Config\App\Filters\AdminFilters' not found
+#0 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(403): CodeIgniter\Filters\Filters->run('user/login', 'before')
+#1 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-05-10 16:43:38 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 22, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(126): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:44:12 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 22, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:45:09 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 22, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:45:28 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 20, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:45:29 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 20, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:47:38 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 20, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:48:18 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 20, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:48:19 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 20, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:48:30 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 16:48:31 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#3 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#4 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-10 16:48:38 --> Undefined variable: title
+#0 D:\wamp64\www\HappyPunch\app\Views\templates\header.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\H...', 20, Array)
+#1 D:\wamp64\www\HappyPunch\system\View\View.php(220): include('D:\\wamp64\\www\\H...')
+#2 D:\wamp64\www\HappyPunch\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\HappyPunch\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 D:\wamp64\www\HappyPunch\app\Controllers\User.php(127): view('templates/heade...', Array)
+#5 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(936): App\Controllers\User->profile()
+#6 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 D:\wamp64\www\HappyPunch\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\HappyPunch\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-05-10 16:49:54 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
